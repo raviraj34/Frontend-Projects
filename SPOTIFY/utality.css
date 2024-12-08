@@ -1,0 +1,63 @@
+.border {
+
+    margin: 2px;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+
+
+.item-center {
+    align-items: center;
+}
+
+.rounded {
+    border-radius: 6px;
+}
+
+.m-1 {
+    margin: 5px;
+}
+
+.p-1 {
+    padding: 10px;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #2e2e2e;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #4a4a4a;
+    border-radius: 6px;
+    border: 2px solid #2e2e2e;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #4a4a4a #2e2e2e;
+}
+
+.rightarrow{
+    margin-top: 16px;
+}
+
+.leftarrow{
+    margin-top:16px;
+    }
